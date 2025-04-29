@@ -1,7 +1,7 @@
 # Programmierübung 2
 
 ## Ziel des Projekts
-Außerdem wird eine Leistungskurve aus einer `csv` Datei erstellt
+Außerdem wird eine Leistungskurve aus einer `csv` Datei erstellt und geplottet
 
 ## Umgang mit pdm
 
